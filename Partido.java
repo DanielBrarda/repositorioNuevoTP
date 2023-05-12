@@ -63,7 +63,7 @@ public class Partido {
 	        }
 	    }
 	    
-	    // ACA HAGO ENUMERACION
+	    // ACA HAGO ENUM
 	    public enum ResultadoEnum {
 	        GANA_EQUIPO1,
 	        GANA_EQUIPO2,
